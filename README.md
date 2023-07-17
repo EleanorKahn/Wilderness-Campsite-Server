@@ -1,5 +1,5 @@
 # Wilderness-Campsite-Server
 
-This quick json server serves data to Wilderness Bound (react), to be dynamically served by the browser.
+This quick json server sends data to Wilderness Bound (React). 
 
-It can be accessed live at https://my-json-server.typicode.com/EleanorKahn/Wilderness-Campsite-Server
+It can be accessed at https://my-json-server.typicode.com/EleanorKahn/Wilderness-Campsite-Server
